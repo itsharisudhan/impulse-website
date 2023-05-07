@@ -1,0 +1,48 @@
+   .hero1 {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    font-family:monospace;
+    padding: 0;
+    margin:50px;
+
+
+   }
+   .pr {
+    font-size: large;
+   }
+   .pr2{
+    color: yellow;
+   }
+   .aubit{
+    color: yellow;
+   }
+   button{
+    background-color: purple;
+    color: white;
+    border-color: purple;
+    border-style:dotted;
+    border-radius: 0.2px;
+    padding: 5px;
+
+    margin: 5px;
+   }
+   body{
+    background-color: black;
+   }
+.hero2{
+    
+    margin-top: 100px;
+    color: white;
+    font-family: monospace;
+    
+}
+.star{
+    font-size: large;
+    color: purple;
+    
+}
+.pr3{
+    font-size: large;
+}
