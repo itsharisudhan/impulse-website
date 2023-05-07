@@ -48,3 +48,9 @@
 .pr3{
     font-size: large;
 }
+
+@media (max-width:600px){
+    body {
+        font-size: 14px;
+    }
+}
