@@ -23,13 +23,16 @@
     color: white;
     border-color: purple;
     border-style:dotted;
-    border-radius: 0.2px;
+    border-radius: 15px;
     padding: 5px;
 
     margin: 5px;
    }
    body{
     background-color: black;
+    margin: 0px;
+    padding: 0px;
+
    }
 .hero2{
     
