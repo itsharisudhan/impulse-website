@@ -2,14 +2,15 @@
     background-color: black;
     text-align: center;
     color: white;
+    font-size: 50px;
     font-family:monospace;
     padding: 0;
-    margin:100px;
+    margin-top:100px;
 
 
    }
    .pr {
-    font-size: large;
+    font-size: x-large;
    }
    .pr2{
     color: yellow;
@@ -46,7 +47,7 @@
     
 }
 .pr3{
-    font-size: large;
+    font-size: x-large;
 }
 
 @media (max-width:600px){
